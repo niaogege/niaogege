@@ -15,4 +15,11 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=niaogege)
 
 <!--START_SECTION:waka-->
+```text
+Markdown     7 hrs 17 mins   ████████████████▒░░░░░░░░   64.76 % 
+JavaScript   3 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+HTML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Vue.js       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+```
 <!--END_SECTION:waka-->
