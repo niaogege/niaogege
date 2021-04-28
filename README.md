@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     3 hrs 35 mins   ██████████████▓░░░░░░░░░░   58.21 % 
-JavaScript   1 hr 52 mins    ███████▓░░░░░░░░░░░░░░░░░   30.45 % 
-HTML         27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-Vue.js       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Markdown     2 hrs 10 mins   ██████████████▓░░░░░░░░░░   58.47 % 
+JavaScript   1 hr 3 mins     ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+HTML         27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
