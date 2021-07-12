@@ -11,9 +11,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 21 mins   ██████████████▓░░░░░░░░░░   59.07 % 
-Markdown     1 hr 21 mins    ████████▒░░░░░░░░░░░░░░░░   33.86 % 
-JavaScript   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Vue.js       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
