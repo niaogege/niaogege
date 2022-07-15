@@ -2,10 +2,9 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning ![javascript](https://img.shields.io/badge/javacript-learn-orange)
-- 🤔 I’m looking for help with ![ts](https://img.shields.io/badge/ts-learn-yellow)
+- 🌱 I’m currently learning ![ts](https://img.shields.io/badge/javacript-learn-orange), ![babel](https://img.shields.io/badge/javacript-learn-orange), ![vite](https://img.shields.io/badge/javacript-learn-orange), ![react](https://img.shields.io/badge/javacript-learn-orange)
 - 📫 How to reach me: 291003932@qq.com
-- ⚡ Fun fact:  I'm a fan of Iron Man, I love to sleep and 书法
+- ⚡ Fun fact:  I'm a fan of Iron Man, I love to sleep and shufa
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=niaogege&layout=compact)
 
