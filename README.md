@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning ![ts](https://img.shields.io/badge/javacript-learn-orange), ![babel](https://img.shields.io/badge/javacript-learn-orange), ![vite](https://img.shields.io/badge/javacript-learn-orange), ![react](https://img.shields.io/badge/javacript-learn-orange)
+- 🌱 I’m currently learning TS/Babel/Vite/React
 - 📫 How to reach me: 291003932@qq.com
 - ⚡ Fun fact:  I'm a fan of Iron Man, I love to sleep and shufa
 
