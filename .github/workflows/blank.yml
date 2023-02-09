@@ -8,9 +8,9 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: change repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: niaogege/waka-readme@main
+      - uses: niaogege/waka-readme@matser
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
