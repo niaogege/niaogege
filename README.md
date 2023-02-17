@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning Nestjs/CICD/Docker/React
+- 🌱 [MY Blog](https://bythewayer.com/)
 - 📫 How to reach me: 291003932@qq.com
 - ⚡ Fun fact:  世事无常，不要留有遗憾，早点养老
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=niaogege&layout=compact)
+![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=niaogege&layout=compact)
 
 <!--START_SECTION:waka-->
 
