@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2020 - To: 14 December 2024
+From: 10 March 2020 - To: 15 December 2024
 
 Total Time: 4,687 hrs 32 mins
 
