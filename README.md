@@ -11,17 +11,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2020 - To: 06 March 2025
+From: 10 March 2020 - To: 07 March 2025
 
-Total Time: 4,825 hrs 43 mins
+Total Time: 4,828 hrs 38 mins
 
-TypeScript                 1,731 hrs 26 mins>>>>>>>>>----------------   35.88 %
-JavaScript                 1,546 hrs 13 mins>>>>>>>>-----------------   32.04 %
-Markdown                   888 hrs 45 mins >>>>>--------------------   18.42 %
+TypeScript                 1,733 hrs 36 mins>>>>>>>>>----------------   35.90 %
+JavaScript                 1,546 hrs 22 mins>>>>>>>>-----------------   32.02 %
+Markdown                   888 hrs 47 mins >>>>>--------------------   18.41 %
 Vue.js                     177 hrs 49 mins >------------------------   03.68 %
 JSON                       166 hrs 36 mins >------------------------   03.45 %
-SCSS                       132 hrs 31 mins >------------------------   02.75 %
-HTML                       47 hrs 46 mins  -------------------------   00.99 %
+SCSS                       132 hrs 34 mins >------------------------   02.75 %
+HTML                       48 hrs 18 mins  -------------------------   01.00 %
 YAML                       35 hrs 13 mins  -------------------------   00.73 %
 Other                      35 hrs 11 mins  -------------------------   00.73 %
 CSS                        14 hrs 48 mins  -------------------------   00.31 %
